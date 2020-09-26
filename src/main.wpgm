@@ -1,0 +1,9 @@
+import flappyGame.*
+import wollok.game.*
+
+program main {
+
+	flappyGame.showMenu()
+	
+	game.start()
+} 
